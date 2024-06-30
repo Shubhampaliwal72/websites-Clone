@@ -1,0 +1,6 @@
+ what about CDN ?
+    --> CDN is a network of servers that are distributed across the globe.
+    --> It is used to deliver content to users more quickly and efficiently.
+   
+summery 
+   --> first we will work on the nev bar section 
